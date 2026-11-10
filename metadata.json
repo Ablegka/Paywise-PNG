@@ -1,0 +1,6 @@
+{
+  "name": "PayWise PNG",
+  "description": "Offline-first personal finance, fortnightly payday budgeting, expense tracking, and savings planner for Papua New Guineans in PGK (Kina).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PayWise PNG</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_settings">Settings</string>
+    <string name="about_title">PayWise PNG 🇵🇬</string>
+    <string name="about_tagline">A simple and reliable way to manage your money.</string>
+    <string name="about_audience">Created for Papua New Guineans.</string>
+    <string name="about_developer">Developed by PodzSphere.</string>
+    <string name="about_author">Authored by Able Sam.</string>
+    <string name="about_handle">@astp2019</string>
+</resources>
